@@ -4,18 +4,18 @@ markdown: redcarpet
 
 # 作者信息
 author: 
-  name: Anya Lin
-  email: lay.1010@hotmail.com
-  link: http://painterlin.com
-  weibo: http://weibo.com/orangeissweet
-  github: http://github.com/lay1010
-  music: http://site.douban.com/linanya
-  linkedin: https://www.linkedin.com/pub/anya-lin/81/91/232
+  name: 捡代码论坛
+  email: 
+  link: http://bbs.jiandaima.com/
+  weibo: http://bbs.jiandaima.com/
+  github: http://github.com/jiandaima
+  music: http://bbs.jiandaima.com/
+  linkedin: http://bbs.jiandaima.com/
 
 # 站点信息
-title: 林安亚的博客
-description: My personal blog
-url: http://painterlin.com
+title: 源码分享博客
+description: 专注于棋牌游戏源码下载，手机游戏源码下载，网页游戏源码下载，unity3d游戏源码下载，android应用源码下载，力图做最好的游戏源码下载网站！
+url: http://bbs.jiandaima.com/
 rss_url: /pages/atom.xml
 
 # gavatar头像及Favicon
@@ -25,7 +25,7 @@ favicon: /public/img/deer3.png
 # google analytics 设置
 ga:
   id: UA-54262064-1 
-  url: painterlin.com
+  url: http://bbs.jiandaima.com/
 
 # disqus 设置
 disqus:

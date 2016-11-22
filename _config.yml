@@ -27,6 +27,11 @@ ga:
   id: UA-54262064-1 
   url: http://bbs.jiandaima.com/
 
+# 百度统计 设置
+baidu:
+  id: 87e34a74512be24fc04c366c483aea8b
+  url: http://bbs.jiandaima.com/
+
 # disqus 设置
 disqus:
   shortname: painterlin
